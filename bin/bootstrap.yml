@@ -1,4 +1,0 @@
-#This can be passed as a command line arg -Dencrypt.key=spr1ng
-encrypt:
-  key: spr1ng
-  
